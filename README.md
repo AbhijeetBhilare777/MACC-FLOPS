@@ -32,5 +32,6 @@ https://www.programmersought.com/article/50435353828/
 
 **github links for macc and flops**
 https://github.com/sovrasov/flops-counter.pytorch
+
 https://github.com/Lyken17/pytorch-OpCounter
 
